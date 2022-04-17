@@ -11,11 +11,9 @@ jupyter:
   nbformat_minor: 0
 ---
 
-::: {.cell .markdown id="RCyeEm0OyHKm"}
 # Data driven credit card fraud detection
 
 Number total of transactions: 284,807 Number of frauds: 492 Number of
 features: 31 (30 independents and 1 dependent) Unbalanced: fraud
 represents only 0.172% of total transactions Only numeric input
 variables: adapted by PCA transformation
-:::
